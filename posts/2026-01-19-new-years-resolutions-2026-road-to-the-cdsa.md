@@ -2,7 +2,7 @@
 title: "New Year’s Resolutions 2026 - Road to the CDSA"
 parent: Posts
 nav_order: 1
-permalink: /posts/new-years-resolutions-2026/
+permalink: /posts/new-years-resolutions-2026-road-to-the-cdsa/
 ---
 
 # New Year’s Resolutions 2026 - Road to the CDSA
@@ -29,9 +29,11 @@ Also... this certificate looks cool, and I’m already waiting for the day I can
 
 *On NotTheHiddenWiki you’ll find a repository with cybersecurity materials. There’s also a Discord open to anyone who wants to dive deeper into cybersecurity.*
 
-- NTHW GitHub repo: https://github.com/notthehiddenwiki/NTHW
-- NTHW Discord: https://discord.gg/vzNZqCF9rG
-
+NTHW:
+- [NTHW YouTube](https://www.youtube.com/@NotTheHiddenWiki)
+- [NTHW LinkedIn]([https://www.linkedin.com/company/not-the-hidden-wiki/](https://www.linkedin.com/company/not-the-hidden-wiki/ "https://www.linkedin.com/company/not-the-hidden-wiki/"))
+- [NTHW GitHub repository](https://github.com/notthehiddenwiki/NTHW)
+- [NTHW Discord](https://discord.gg/vzNZqCF9rG)
 ## Timeline and approach
 
 To be honest, I don’t feel ready for this certification at all. But I like testing my limits, so why not :)
@@ -76,7 +78,6 @@ This is not meant to be a highlight reel. This is meant to be an honest record o
 
 ## Small bonus:
 
-- ENG here: https://tive-tilray.github.io/posts/new-years-resolutions-2026/
-- Habitica helps me in the process, because gamification makes it easier to celebrate small wins and keep the rhythm: https://habitica.com/
-- Time tracking: Clockify https://clockify.me/
-- LinkedIn: [Paweł Duży](https://www.linkedin.com/in/pawe%C5%82-du%C5%BCy-66b248320/)
+- [Habitica](https://habitica.com/) - gamification that helps me celebrate small wins and keep the rhythm
+- [Clockify](https://clockify.me/) - time tracking
+- [LinkedIn - Paweł Duży](https://www.linkedin.com/in/pawe%C5%82-du%C5%BCy-66b248320/)
