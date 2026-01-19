@@ -3,6 +3,6 @@ title: Start
 nav_order: 1
 ---
 
-# Cześć
+# Hello
 
-Tu będą moje postanowienia noworoczne i progres.
+Trying out this whole github-pages thing of mine 8-)
