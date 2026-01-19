@@ -1,6 +1,17 @@
-title: "Hello, I'm Tive Tilray"
-description: "Sharing my learning progress with the world"
+title: "Cybersecurity enthusiast"
+description: "Exposing my learning process and progress to the world"
+
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+
+
+aux_links:
+  "GitHub":
+    - "https://github.com/tive-tilray"
+
+footer_content: "Notes and reflections. Built in public."
