@@ -5,6 +5,6 @@ has_children: true
 permalink: /CDSA Progress/
 ---
 
-# Posts
+# CDSA Progress Posts
 
 Short notes, progress logs, and reflections as I work toward the HTB CDSA certification.
