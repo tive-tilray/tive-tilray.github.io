@@ -31,7 +31,7 @@ Also... this certificate looks cool, and I’m already waiting for the day I can
 
 NTHW:
 - [NTHW YouTube](https://www.youtube.com/@NotTheHiddenWiki)
-- [NTHW LinkedIn]([https://www.linkedin.com/company/not-the-hidden-wiki/](https://www.linkedin.com/company/not-the-hidden-wiki/ "https://www.linkedin.com/company/not-the-hidden-wiki/"))
+- [NTHW LinkedIn](https://www.linkedin.com/company/not-the-hidden-wiki/)
 - [NTHW GitHub repository](https://github.com/notthehiddenwiki/NTHW)
 - [NTHW Discord](https://discord.gg/vzNZqCF9rG)
 ## Timeline and approach
