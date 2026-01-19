@@ -23,7 +23,7 @@ I noticed that what fits me best is working through large amounts of material (f
 
 ## Why CDSA and Hack The Box
 
-Nothing would be happening without **NotTheHiddenWiki** :) This place gave me a huge push to grow. NTHW is a partner of Hack The Box, and the community feels like home. Being around people who are already a bit further makes it easier to stay on track, come back to the topic, and not quit after the first tougher moment.
+Nothing would be happening without **NotTheHiddenWiki** :) This place gave me a huge push to grow. This community gave me a huge push to grow. NTHW and Hack The Box just go hand in hand for me, and I genuinely feel at home in this environment :) Being around people who are already a bit further makes it easier to stay on track, come back to the topic, and not quit after the first tougher moment.
 
 Also... this certificate looks cool, and I’m already waiting for the day I can hang it on my wall :D
 
